@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="am-monsters.cl" resolutions="1x" timestamp="1571537301854">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="am-monsters.cl" resolutions="1x" timestamp="1571546126170">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="gracias.css" crc="4290186006" ref="gracias"/>
-    <file name="index.css" crc="328946526" ref="index"/>
-    <file name="nomq_index.css" crc="4276828532" ref="index"/>
+    <file name="gracias.css" crc="4050675191" ref="gracias"/>
+    <file name="index.css" crc="442947932" ref="index"/>
+    <file name="nomq_index.css" crc="48272538" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gracias"/>
@@ -15,15 +15,14 @@
     <file name="require.js" crc="3951022091" ref="index:gracias"/>
   </folder>
   <folder name="images">
-    <file name="am-monsters.svg" crc="4050474523" seo="true" ref="index:gracias">
+    <file name="am-monsters.svg" crc="4050474523" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="gracias" alt=""/>
     </file>
     <file name="am-monsters_poster_.png" crc="4183131111" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4165160659" seo="true" mt="1571537012998" redirect="true"/>
-  <file name="gracias.html" crc="258458425" seo="true" mt="1571537175903" redirect="true"/>
+  <file name="index.html" crc="106306972" seo="true" mt="1571546112568" redirect="true"/>
+  <file name="gracias.html" crc="4046537922" seo="true" mt="1571543446320" redirect="true"/>
 </manifest>
