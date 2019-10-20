@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="am-monsters.cl" resolutions="1x" timestamp="1571547513226">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="am-monsters.cl" resolutions="1x" timestamp="1571591041895">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="gracias.css" crc="4050675191" ref="gracias"/>
-    <file name="index.css" crc="4168293686" ref="index"/>
+    <file name="index.css" crc="159507439" ref="index"/>
     <file name="nomq_index.css" crc="327704978" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -23,6 +23,6 @@
     <file name="am-monsters_poster_.png" crc="4183131111" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3791638000" seo="true" mt="1571547498561" redirect="true"/>
+  <file name="index.html" crc="3894605323" seo="true" mt="1571591025924" redirect="true"/>
   <file name="gracias.html" crc="4046537922" seo="true" mt="1571543446320" redirect="true"/>
 </manifest>
